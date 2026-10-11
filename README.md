@@ -32,7 +32,7 @@ My personal website, built with HTML, CSS, and JavaScript.
 An AI-assisted Python debugging application developed
 through CodePath's AI Engineering program.
 
-[Source Code](https://github.com/Masrawr/CodePath-final-project)
+[Source Code](https://github.com/Masrawr/Glitch-Investigator-AI)
 
 ## Find Me Online
 
