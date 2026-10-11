@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Masroor
 
-<!--
-**Masrawr/Masrawr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the College of
+Staten Island, currently exploring software engineering,
+AI, and web development.
 
-Here are some ideas to get you started:
+I enjoy building things, learning new technologies,
+and figuring out how software works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Learning data structures and algorithms in C++
+- Building websites with HTML, CSS, and JavaScript
+- Exploring AI engineering through Python projects
+- Working on collaborative C++ projects
+
+## Technologies
+
+Languages: C++, Python, HTML, CSS, JavaScript
+
+Tools: Git, GitHub, VS Code
+
+## Featured Projects
+
+### Personal Portfolio
+My personal website, built with HTML, CSS, and JavaScript.
+
+[Live Website](https://masroorjehangiri.com)
+[Source Code](https://github.com/Masrawr/Portfolio-Website)
+
+### Glitch Investigator AI
+An AI-assisted Python debugging application developed
+through CodePath's AI Engineering program.
+
+[Source Code](https://github.com/Masrawr/CodePath-final-project)
+
+## Find Me Online
+
+Website: https://masroorjehangiri.com
+LinkedIn: https://www.linkedin.com/in/masroor-jehangiri/
